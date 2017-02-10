@@ -1,0 +1,32 @@
+#content{
+    padding-top: 40px;
+    text-align: center;
+    height: 1000px;
+    background-color: beige;
+}
+a{
+    display: inline-block;
+
+}
+input {
+    display: inline-block;
+    margin: 10px;
+    padding: 3px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px ;
+}
+textarea{
+    display: inline-block;
+    border-radius: 5px;
+    margin: 14px;
+    box-shadow: 3px 3px 3px;
+
+}
+#btnSub{
+    padding: 10px;
+    background-color: rosybrown;
+    border-radius: 10px;
+    width: 130px;
+
+}
+
