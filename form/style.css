@@ -1,32 +1,49 @@
-#content{
-    padding-top: 40px;
-    text-align: center;
-    height: 1000px;
+body{
+    margin: 0;
+    padding: 0;
     background-color: beige;
 }
+#content{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+h1 {
+    margin-left: 20px;
+}
 a{
-    display: inline-block;
-
+    margin-left: 10px;
 }
 input {
-    display: inline-block;
     margin: 10px;
     padding: 3px;
     border-radius: 5px;
     box-shadow: 3px 3px 3px ;
 }
+input:hover{
+    background-color:lavenderblush;
+}
 textarea{
-    display: inline-block;
     border-radius: 5px;
     margin: 14px;
     box-shadow: 3px 3px 3px;
 
 }
-#btnSub{
+textarea:hover {
+    background-color:lavenderblush;
+
+}
+
+#btnSub {
+    font-size: 1.2em;
+    margin-top: 20px;
+    margin-left: 20px;
     padding: 10px;
-    background-color: rosybrown;
     border-radius: 10px;
     width: 130px;
+    background-color: tan;
+}
 
+#btnSub:hover {
+    background-color: saddlebrown;
 }
 
