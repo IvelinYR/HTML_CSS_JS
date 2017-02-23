@@ -1,0 +1,29 @@
+.header{
+    height: 80px;
+}
+.header ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.header li{
+    margin: 10px;
+    border: 1px solid greenyellow;
+    border-radius: 5px;
+    background-color: #333;
+    float: left;
+    width: 22%;
+}
+.header li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+.header li a:hover{
+    background-color: greenyellow;
+    border-radius: 5px;
+    color: black;
+}

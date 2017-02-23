@@ -1,0 +1,30 @@
+.link{
+    color: greenyellow;
+    text-decoration: none;
+    padding-top: 25px;
+    margin-right: 10px;
+}
+.footer-social {
+    float: right;
+    margin-top:5px;
+}
+.footer-menu {
+    float: left;
+    margin-top:5px;
+}
+.footer-social span {
+    color: greenyellow;
+}
+.footer-social ul{
+    padding:0;
+    margin:0 0 0 10px;
+}
+.footer-social li {
+    float:left;
+    list-style:none;
+    margin: 10px;
+}
+.footer-social li img {
+   width: 30px;
+    border-radius: 20px;
+}
